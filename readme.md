@@ -15,7 +15,7 @@
 ### 🧰 Requirements
 Make sure you have **Python 3.8+** and these libraries installed:
 
-pygame, PyOpenGL, numpy
+qiskit, pygame, PyOpenGL, numpy
 
 -------------------------------------------------------------------------------------------------------------------
 ### ▶️ How to Play
@@ -75,4 +75,5 @@ Inspired by classic naval combat and modern particle effects and some theories f
 -----------------------------------------------------------------------------------------------------
 ### 📜 License
 This project is open-source and free to use for educational or personal projects.
+
 Just credit *Quantum Pirate 3D — Armada Edition* if you share it. 🏴‍☠️
