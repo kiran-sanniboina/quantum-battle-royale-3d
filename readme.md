@@ -60,6 +60,7 @@ Inspired by classic naval combat and modern particle effects and some theories f
 * [Pygame](https://www.pygame.org/)
 * [PyOpenGL](http://pyopengl.sourceforge.net/)
 * [NumPy](https://numpy.org/)
+* [Qiskit](https://www.ibm.com/quantum/qiskit)
 --------------------------------------------------------------------------------------
 ### 💡 Future Ideas
 * 🤖 Enemy ships fire back
@@ -77,3 +78,4 @@ Inspired by classic naval combat and modern particle effects and some theories f
 This project is open-source and free to use for educational or personal projects.
 
 Just credit *Quantum Pirate 3D — Armada Edition* if you share it. 🏴‍☠️
+
